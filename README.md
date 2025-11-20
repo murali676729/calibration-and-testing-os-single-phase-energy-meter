@@ -71,24 +71,24 @@ Step 10: Click on   RESET  button to refresh the webpage.
 
 Simulation
 Case 1
+
  <img width="940" height="376" alt="image" src="https://github.com/user-attachments/assets/abc30311-7872-433f-98d0-8bea29318ee0" />
 
 
 Case2
+
  <img width="939" height="403" alt="image" src="https://github.com/user-attachments/assets/9262e1eb-f3bc-44c1-9314-599c6e2ac93e" />
 
 Case3
 
  <img width="939" height="392" alt="image" src="https://github.com/user-attachments/assets/c3088e6b-6c40-4b3f-9827-5c0994e73f6f" />
 
-Table
+
+table
+
 <img width="940" height="213" alt="image" src="https://github.com/user-attachments/assets/7b4ee2d5-65aa-4c21-bd65-39d6e6d5e00f" />
 
-RESULT
-Thus , the measurement of energy is simulated and verified
-
  
-
 
 RESULT
 Thus , the measurement of energy is simulated and verified
